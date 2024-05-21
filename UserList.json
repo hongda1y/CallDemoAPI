@@ -1,0 +1,22 @@
+[
+    {
+        "user_id": 1,
+        "name": "John Doe",
+        "device_token": "abc123def456"
+    },
+    {
+        "user_id": 2,
+        "name": "Jane Smith",
+        "device_token": "ghi789jkl012"
+    },
+    {
+        "user_id": 3,
+        "name": "Alice Johnson",
+        "device_token": "mno345pqr678"
+    },
+    {
+        "user_id": 4,
+        "name": "Bob Brown",
+        "device_token": "stu901vwx234"
+    }
+]
